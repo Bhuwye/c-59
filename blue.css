@@ -1,0 +1,13 @@
+body {
+  text-align:center;
+  background-color:red;
+}
+
+#font {
+  font-size:20px;
+}
+
+img {
+    height:250px;
+    width:25px;
+}
